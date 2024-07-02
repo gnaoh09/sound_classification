@@ -1,1 +1,1 @@
-Sound classification using CNN-LSTM model and CNN model only
+Sound classification using and CNN model only
